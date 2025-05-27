@@ -1,6 +1,6 @@
 deployment:
   version: IMAGE_VERSION
-  imageURL: 
+  imageURL: 982534364647.dkr.ecr.us-east-1.amazonaws.com/expense/frontend
 hpa:
   utilization: 5 
 tgb:

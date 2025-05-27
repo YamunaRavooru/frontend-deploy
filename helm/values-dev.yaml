@@ -1,0 +1,7 @@
+deployment:
+  version: IMAGE_VERSION
+  imageURL: 
+hpa:
+  utilization: 5 
+tgb:
+  arn: arn:aws:elasticloadbalancing:us-east-1:982534364647:targetgroup/expense-dev/69bb3d5621a31f43
